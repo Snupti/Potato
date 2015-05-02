@@ -2,7 +2,7 @@ import requests
 import operator
 import time
 
-self_user = "Epictek"
+self_user = "Snupti"
 compats = []
 
 page = 1
